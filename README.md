@@ -1,9 +1,7 @@
 # YTU-projects
 
-School Projects Repository
 Welcome to my school projects repository! This repository contains a collection of code projects that I've completed during my time at school.
 
-Purpose
 The purpose of this repository is to share my projects with others who may find them helpful or informative. Whether you're a student looking for examples, an educator exploring teaching materials, or a coding enthusiast curious about different projects, I hope you'll find something useful here.
 
 Contents
